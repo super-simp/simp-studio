@@ -1,4 +1,4 @@
-# <a id="quick-start" href="#quick-start">🚀 Simp Start</a>
+# <a id="quick-start" href="#quick-start">Simp Start</a>
 
 You'll need to have [Node.js](https://nodejs.org/en/) and [Yarn](https://yarnpkg.com/) installed.
 
