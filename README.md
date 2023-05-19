@@ -5,7 +5,7 @@ You'll need to have [Node.js](https://nodejs.org/en/) and [Yarn](https://yarnpkg
 Once that's done, you can run the following commands...
 
 ```bash
-git clone https://github.com/Stability-AI/StableStudio.git
+git clone https://github.com/super-simp/simp-studio.git
 
 cd StableStudio
 
