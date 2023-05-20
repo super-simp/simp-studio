@@ -43,7 +43,7 @@ export function Install({
           target="_blank"
           rel="noreferrer"
         >
-          StableStudio plugin
+          SimpStudio Plugin
         </a>
         .
       </p>

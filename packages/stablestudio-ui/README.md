@@ -12,7 +12,7 @@
 
 # <a id="about" href="#about">ℹ️ About</a>
 
-_Welcome to the UI package for StableStudio!_
+_Welcome to the UI package for SimpStudio!_
 
 **If you're ready to dive in and make changes, be sure to read about [technology](#technology), [structure](#structure), [conventions](#conventions), and [plugins](../stablestudio-plugin/README.md) first.**
 
